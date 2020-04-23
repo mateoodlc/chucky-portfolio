@@ -13,7 +13,7 @@ module.exports = {
         prependData: `@import "~@/styles/variables.sass"`
       },
       scss: {
-        prependData: `@import "~@/styles/variables.scss";`
+        prependData: `@import "~@/styles/variables.scss"; @import "~@/styles/_typography.scss";`
       }
     }
   }

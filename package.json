@@ -8,8 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "babel-eslint": "^10.1.0",
     "core-js": "^3.6.4",
     "gsap": "^3.2.6",
+    "silc-core": "^0.6.0",
+    "silc-grid": "^0.6.1",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
     "vue-property-decorator": "^8.4.1",
