@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "core-js": "^3.6.4",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "silc-core": "^0.6.0",
     "silc-grid": "^0.6.1",
     "vue": "^2.6.11",
